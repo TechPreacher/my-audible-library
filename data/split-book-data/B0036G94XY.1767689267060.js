@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "William Gibson's dark visions of computer cowboys, bio-enhanced soldiers of fortune, and hi-tech lowlifes have won unprecedented praise. Included here are some of the most famous short fiction and novellas by the author of <i>Count Zero</i> and <i>Neuromancer</i>."; 

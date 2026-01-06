@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<i>The Shadow of the Torturer</i> is the first volume in the four-volume epic, the tale of a young Severian, an apprentice to the Guild of Torturers on the world called Urth, exiled for committing the ultimate sin of his profession - showing mercy towards his victim."; 

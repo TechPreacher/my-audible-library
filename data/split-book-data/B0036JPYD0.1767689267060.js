@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "The award-winning William Gibson goes beyond science fiction to the broader mainstream fiction audience. His unique world features multinational corporations and high-tech outlaws vying for power, traveling the computer-generated universe."; 

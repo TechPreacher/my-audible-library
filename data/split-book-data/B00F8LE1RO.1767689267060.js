@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Six months have passed since the release of Nexus 5. The world is a different, more dangerous place. In the USA, the freedom fighters of the Post-Human Liberation Front use Nexus to turn men and women into human time bombs aimed at the President and his allies. The first blows in the war between human and post-human have been struck. </p>"; 
